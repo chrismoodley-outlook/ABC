@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toti Baptist Connect</string>
+    <string name="welcome_title">Welcome to Toti Baptist Connect</string>
+    <string name="welcome_subtitle">Stay connected with our church community</string>
+    <string name="home">Home</string>
+    <string name="events">Events</string>
+    <string name="messages">Messages</string>
+    <string name="settings">Settings</string>
+</resources>
